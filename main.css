@@ -20,7 +20,7 @@
                                         position: absolute;
                                         color: var(--LightCyan);
                                         top: 90%;
-                                      width:100%
+                                      width:100%;
                                         left: 50%;
                                         transform: translateX(-50%);
                                         word-break: break-word;
